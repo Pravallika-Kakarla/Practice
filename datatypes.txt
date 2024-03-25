@@ -1,0 +1,9 @@
+public class DataTypes{
+    public static void Main(){
+        int i=10;
+        long l=20l;
+        double d=22.3;
+        float f=23.2f;
+        Console.WriteLine("{0},{1},{2},{3}"i,l,d,f);
+   }
+}
